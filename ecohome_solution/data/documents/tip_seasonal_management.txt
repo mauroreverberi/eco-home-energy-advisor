@@ -1,0 +1,23 @@
+Seasonal Energy Management
+
+Energy needs change with the seasons. Adjusting habits and settings each season keeps comfort high while keeping bills and emissions low.
+
+Summer:
+- Raise the cooling setpoint and rely on ceiling fans and night ventilation.
+- Pre-cool during midday solar and coast through the late-afternoon price peak.
+- Close blinds on sun-facing windows to reduce heat gain; this lowers cooling load significantly.
+
+Winter:
+- Lower the heating setpoint and add layers; set back the temperature overnight and when away.
+- Let in winter sun during the day and close curtains at night to retain heat.
+- Service heating equipment before the cold season for peak efficiency.
+
+Spring and fall (shoulder seasons):
+- Use natural ventilation and open windows instead of HVAC whenever outdoor temperatures are comfortable.
+- These mild months are ideal for running deferred high-energy tasks (deep cleaning appliances, EV trips) because HVAC load is low.
+
+Seasonal solar:
+- Solar generation is highest in summer and lowest in winter. Plan higher self-consumption goals in summer and lean more on efficiency and load-shifting in winter.
+
+Seasonal demand awareness:
+- Utilities often have higher peak rates in summer (cooling) and sometimes winter (heating). Check seasonal tariff changes and adjust scheduling accordingly.

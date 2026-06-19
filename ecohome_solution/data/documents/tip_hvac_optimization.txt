@@ -1,0 +1,22 @@
+HVAC Optimization Strategies
+
+Heating, ventilation, and air conditioning (HVAC) is usually the largest single energy use in a home. Optimizing it well can cut total energy bills by 20-40%.
+
+Thermostat setpoints:
+- In summer, set the thermostat to 25-26C (78F) when home and a few degrees higher when away. Each degree of cooling you avoid saves roughly 3-5% on cooling energy.
+- In winter, set it to 20C (68F) when home and lower it 3-5C overnight or when away.
+- Use a programmable or smart thermostat to schedule setbacks automatically instead of cooling or heating an empty house.
+
+Pre-cooling and pre-heating:
+- Pre-cool the home during the late morning and midday when solar generation is high and electricity is cheaper, then let the temperature drift up during the expensive late-afternoon peak (typically 4-9 PM).
+- This shifts HVAC load away from peak pricing while keeping the home comfortable.
+
+Maintenance:
+- Replace or clean air filters every 1-3 months. A clogged filter forces the system to work harder.
+- Seal and insulate ducts; leaky ducts can waste 20-30% of conditioned air.
+- Have the system serviced annually so refrigerant levels and coils are clean.
+
+Efficiency upgrades:
+- Heat pumps are 2-4x more efficient than resistance heating and can both heat and cool.
+- Use ceiling fans to raise the comfortable setpoint by 2-3C in summer.
+- Improve insulation and weather-stripping to reduce the load the HVAC has to meet.

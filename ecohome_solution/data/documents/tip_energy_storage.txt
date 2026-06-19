@@ -1,0 +1,22 @@
+Energy Storage Optimization
+
+A home battery (and an EV used as flexible storage) lets you decouple when energy is generated or cheap from when it is used.
+
+Charge cheap, discharge expensive:
+- Charge the battery from solar surplus during midday, or from the grid during off-peak hours if there is no solar.
+- Discharge the battery during the evening peak (typically 4-9 PM) to avoid the most expensive grid electricity. This is called peak shaving.
+
+Maximize solar storage:
+- Prioritize charging the battery with your own solar rather than exporting it at a low rate, then use that stored energy in the evening.
+- Avoid charging the battery from the grid during peak hours.
+
+EV as storage:
+- Schedule EV charging for off-peak or high-solar windows. Charging a typical EV uses 7-12 kWh per session and is one of the largest shiftable loads in a home.
+- If the vehicle supports it, vehicle-to-home (V2H) can power the house during peak periods.
+
+Battery health and sizing:
+- Keep the battery within recommended state-of-charge limits (often 10-90%) to extend its lifespan.
+- Size the battery to cover the evening peak, not the entire day; oversizing rarely pays back.
+
+Demand charges:
+- Where utilities apply demand charges, use the battery to flatten short spikes in power draw (for example when the EV and HVAC run together), which can reduce the monthly demand charge.

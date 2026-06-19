@@ -1,0 +1,21 @@
+Renewable Energy Integration
+
+Integrating rooftop solar (and sometimes a home battery) with smart consumption is the core of reducing both cost and environmental impact.
+
+Maximize self-consumption:
+- Solar power is cheapest when you use it directly instead of exporting it. Shift flexible loads (EV charging, laundry, dishwasher, pool pump, water heating) into the solar production window, usually 10 AM to 3 PM.
+- Pre-cool or pre-heat the home during peak solar so the HVAC uses your own generation.
+
+Understand your tariff:
+- Under net metering, exported solar earns a credit; under time-of-use export rates, exporting during the evening peak can be more valuable than midday.
+- Check whether your utility pays more for energy exported during peak hours, and plan battery discharge accordingly.
+
+Sizing and orientation:
+- South-facing panels maximize total daily generation; west-facing panels produce more in the late afternoon, which can better match evening demand and peak prices.
+
+Pairing with storage:
+- A battery lets you store midday solar surplus and use it during the expensive evening peak instead of exporting it cheaply.
+- Charge the battery from solar (not the grid) whenever possible to maximize the environmental benefit.
+
+Environmental impact:
+- Every kWh of solar self-consumed avoids roughly 0.4 kg of CO2 compared with average grid power, though the exact factor depends on your local grid mix.

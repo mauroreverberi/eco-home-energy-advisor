@@ -1,0 +1,21 @@
+Smart Home Automation Tips
+
+Smart-home automation reduces energy waste by running devices only when needed and shifting flexible loads to cheaper or greener times.
+
+Scheduling flexible loads:
+- Dishwashers, washing machines, dryers, and EV chargers are "shiftable" loads. Schedule them for off-peak hours (typically after 10 PM or before 6 AM) or during the midday solar window.
+- Use delay-start features or smart plugs so appliances run automatically at the cheapest time.
+
+Occupancy and presence:
+- Use motion sensors and presence detection to turn off lights, reduce HVAC, and switch devices to standby when rooms are empty.
+- Geofencing can set the home to an "away" energy mode when everyone leaves and restore comfort before arrival.
+
+Lighting:
+- Replace remaining incandescent and halogen bulbs with LEDs, which use 75-85% less energy.
+- Add dimmers and daylight sensors so artificial light is only used when natural light is insufficient.
+
+Standby power:
+- "Vampire" loads from devices in standby can be 5-10% of a home's electricity. Use smart power strips to fully cut power to entertainment centers and chargers when not in use.
+
+Automation around price and weather signals:
+- Combine electricity price data and weather/solar forecasts so automations charge batteries and EVs and run appliances when power is cheapest and solar output is highest.
